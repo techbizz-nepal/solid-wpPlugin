@@ -1,0 +1,3 @@
+[submodule "solid-converter"]
+	path = solid-converter
+	url = git@github.com:susantp/solid-converter.git
